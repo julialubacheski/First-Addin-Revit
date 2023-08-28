@@ -1,0 +1,12 @@
+C:\Users\ENGEBIM\source\repos\CodignforEAC2\CodignforEAC2\obj\Debug\CodignforEAC2.csproj.AssemblyReference.cache
+C:\Users\ENGEBIM\source\repos\CodignforEAC2\CodignforEAC2\obj\Debug\CodignforEAC2.csproj.CoreCompileInputs.cache
+C:\Users\ENGEBIM\source\repos\CodignforEAC2\CodignforEAC2\bin\Debug\CodignforEAC2.dll
+C:\Users\ENGEBIM\source\repos\CodignforEAC2\CodignforEAC2\bin\Debug\CodignforEAC2.pdb
+C:\Users\ENGEBIM\source\repos\CodignforEAC2\CodignforEAC2\obj\Debug\CodignforEAC2.dll
+C:\Users\ENGEBIM\source\repos\CodignforEAC2\CodignforEAC2\obj\Debug\CodignforEAC2.pdb
+C:\Users\ENGEBIM\OneDrive\Documentos\16.Revit Addins\CodignforEAC2\CodignforEAC2\obj\Debug\CodignforEAC2.csproj.AssemblyReference.cache
+C:\Users\ENGEBIM\OneDrive\Documentos\16.Revit Addins\CodignforEAC2\CodignforEAC2\obj\Debug\CodignforEAC2.csproj.CoreCompileInputs.cache
+C:\Users\ENGEBIM\OneDrive\Documentos\16.Revit Addins\CodignforEAC2\CodignforEAC2\obj\Debug\CodignforEAC2.dll
+C:\Users\ENGEBIM\OneDrive\Documentos\16.Revit Addins\CodignforEAC2\CodignforEAC2\obj\Debug\CodignforEAC2.pdb
+C:\Users\ENGEBIM\OneDrive\Documentos\16.Revit Addins\CodignforEAC2\CodignforEAC2\bin\Debug\CodignforEAC2.dll
+C:\Users\ENGEBIM\OneDrive\Documentos\16.Revit Addins\CodignforEAC2\CodignforEAC2\bin\Debug\CodignforEAC2.pdb

@@ -1,0 +1,15 @@
+C:\Users\ENGEBIM\source\repos\CodingforAEC1\CodingforAEC1\bin\Debug\net6.0\CodingforAEC1.exe
+C:\Users\ENGEBIM\source\repos\CodingforAEC1\CodingforAEC1\bin\Debug\net6.0\CodingforAEC1.deps.json
+C:\Users\ENGEBIM\source\repos\CodingforAEC1\CodingforAEC1\bin\Debug\net6.0\CodingforAEC1.runtimeconfig.json
+C:\Users\ENGEBIM\source\repos\CodingforAEC1\CodingforAEC1\bin\Debug\net6.0\CodingforAEC1.dll
+C:\Users\ENGEBIM\source\repos\CodingforAEC1\CodingforAEC1\bin\Debug\net6.0\CodingforAEC1.pdb
+C:\Users\ENGEBIM\source\repos\CodingforAEC1\CodingforAEC1\obj\Debug\net6.0\CodingforAEC1.csproj.AssemblyReference.cache
+C:\Users\ENGEBIM\source\repos\CodingforAEC1\CodingforAEC1\obj\Debug\net6.0\CodingforAEC1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ENGEBIM\source\repos\CodingforAEC1\CodingforAEC1\obj\Debug\net6.0\CodingforAEC1.AssemblyInfoInputs.cache
+C:\Users\ENGEBIM\source\repos\CodingforAEC1\CodingforAEC1\obj\Debug\net6.0\CodingforAEC1.AssemblyInfo.cs
+C:\Users\ENGEBIM\source\repos\CodingforAEC1\CodingforAEC1\obj\Debug\net6.0\CodingforAEC1.csproj.CoreCompileInputs.cache
+C:\Users\ENGEBIM\source\repos\CodingforAEC1\CodingforAEC1\obj\Debug\net6.0\CodingforAEC1.dll
+C:\Users\ENGEBIM\source\repos\CodingforAEC1\CodingforAEC1\obj\Debug\net6.0\refint\CodingforAEC1.dll
+C:\Users\ENGEBIM\source\repos\CodingforAEC1\CodingforAEC1\obj\Debug\net6.0\CodingforAEC1.pdb
+C:\Users\ENGEBIM\source\repos\CodingforAEC1\CodingforAEC1\obj\Debug\net6.0\CodingforAEC1.genruntimeconfig.cache
+C:\Users\ENGEBIM\source\repos\CodingforAEC1\CodingforAEC1\obj\Debug\net6.0\ref\CodingforAEC1.dll
